@@ -24,7 +24,7 @@ professional:
   - 2 Beds 2 Baths
   - Interior Space 82m2
   - Total Space 105m2
-  - Firs Floor
+  - First Floor
   button:
     enable: true
     label: More info
