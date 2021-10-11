@@ -3,7 +3,7 @@ title: Lomas 3 Complex Renders
 date: 
 image: "/images/higueronlomas2.jpg"
 type: featured
-description: This is meta description
+description: Lomas 3 Complex. Residential Lomas del Higueron. New Development
 
 ---
 ##### Images
