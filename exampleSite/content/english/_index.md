@@ -26,8 +26,8 @@ feature:
     content: 24hs security service in the complex. Very quiet residential area.
   - name: Value For Money
     icon: fas fa-check
-    content: 'The are is increasing value for the construction of several luxury residential
-      properties going on at the moment. '
+    content: 'The area is increasing value for the construction of several luxury
+      residential properties going on at the moment. '
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Our property coordinators will be delighted of attending any of your
