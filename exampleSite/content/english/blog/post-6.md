@@ -6,7 +6,7 @@ type: regular
 description: Lomas 3 Plans
 
 ---
-2 Bedrooms Apartment
+> 2 Bedrooms Apartment
 
 ![](/images/plan-2-bed.jpg)
 
