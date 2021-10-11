@@ -9,7 +9,7 @@ banner:
     link: blog
 feature:
   enable: true
-  title: About the new Development
+  title: About the New Development
   feature_item:
   - name: Completion Date
     icon: fas fa-bell
