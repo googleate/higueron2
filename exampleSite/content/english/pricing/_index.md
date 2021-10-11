@@ -13,36 +13,35 @@ basic:
   - Total Space 169m2
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: More info
+    link: contact
 professional:
-  name: Professional Plan
-  price: "$49"
-  price_per: month
-  info: Best For Professionals
+  name: Middle floor apartment
+  price: 265.000€
+  price_per: from
+  info: 15.000€ Deposit
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - 2 Beds 2 Baths
+  - Interior Space 82m2
+  - Total Space 105m2
+  - Firs Floor
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: More info
+    link: contact
 business:
-  name: Business Plan
-  price: "$49"
-  price_per: month
-  info: Best For Large Individuals
+  name: Sky solarium
+  price: 625.000€
+  price_per: from
+  info: Deposit 15.000€
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - 2 Beds 2 Baths
+  - Interior Space 80m2
+  - Total Space 175m2
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: More info
+    link: contact
 call_to_action:
   enable: true
   title: Need a larger plan?
