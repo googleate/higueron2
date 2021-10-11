@@ -84,7 +84,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> luxury experience at home
+  title: Experience the best <br> luxury environment at home
   image: images/wall.jpg
 call_to_action:
   enable: true
