@@ -38,11 +38,11 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Renders Gallery
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - images/render1.png
+    - images/render2.png
+    - images/render3.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
@@ -50,54 +50,48 @@ service:
       consquat.
     button:
       enable: true
-      label: Check it out
-      link: "#"
-  - title: It is a privately owned Information and cyber security company
+      label: Gallery
+      link: blog
+  - title: Project Plans
     images:
-    - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/plan.png
+    content: A set of great ideas and a lot of work that makes it the perfect place,
+      integrating the communal areas and vegetation where the outdoor areas flow seamlessly
+      between homes. At the same time, each plot will be an enclosed area with security
+      to offer you privacy and intimacy.
+    button:
+      enable: true
+      label: See Plans
+      link: "#"
+  - title: Virtual 360º Render
+    images:
+    - images/virtual.png
+    content: You can access to the virtual 3D model by clicking on this link
     button:
       enable: true
       label: Check it out
-      link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+      link: https://www.areadesign.es/tb79hdmaqueta/
+  - title: Setting
     images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
-  - title: A company standing different from others
-    images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/render3.png
+    content: Just a few minutes from your home you will have Malaga airport, the urban
+      center of Fuengirola, Benalmadena and Marbella, beaches of incredible richness
+      and leisure centers such as Tivoli World or Sea Life. An ideal place to enjoy
+      your lifestyle.
     button:
       enable: true
       label: Check it out
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
-  image: images/screenshot.svg
+  title: Experience the best <br> luxury experience at home
+  image: images/wall.jpg
 call_to_action:
   enable: true
-  title: Ready to get started?
-  image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  title: Any questions?
+  image: images/tia.jpg
+  content: Feel free to contact us. Our property experts will be delighted to attend
+    all your needs.
   button:
     enable: true
     label: Contact Us
