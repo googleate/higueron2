@@ -6,10 +6,6 @@ type: regular
 description: Renderes Lomas del Higueron. Lomas 4
 
 ---
-#### Lomas 4 Building Renders
-
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
-
 # Lomas 4 Complex Renders
 
 ##### Image
@@ -20,4 +16,4 @@ Here is example of hedings. You can use this heading by following markdownify ru
 
 ##### Youtube video
 
-{{< youtube C0DPdy98e4c >}}
+{{< youtube 3nWSVJqftX8 >}}
