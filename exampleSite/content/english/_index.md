@@ -23,7 +23,7 @@ feature:
     icon: fas fa-user-clock
     content: 24hs security service in the complex. Very quiet residential area.
   - name: Value For Money
-    icon: fas fa-diamond
+    icon: fas fa-check
     content: 'The are is increasing value for the construction of several luxury residential
       properties going on at the moment. '
   - name: Faster Response
