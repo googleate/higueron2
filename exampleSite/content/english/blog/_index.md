@@ -1,7 +1,6 @@
 ---
-title: "Latest News"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Project New Development Higueron
+subtitle: ''
+description: Lomas del Higueron
+
 ---
