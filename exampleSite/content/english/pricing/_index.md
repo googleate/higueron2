@@ -44,10 +44,9 @@ business:
     link: contact
 call_to_action:
   enable: true
-  title: Need a larger plan?
-  image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  title: Any Questions?
+  image: images/tia.jpg
+  content: Feel free to contact us for anything you need
   button:
     enable: true
     label: Contact Us
