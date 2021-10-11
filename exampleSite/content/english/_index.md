@@ -6,8 +6,8 @@ banner:
     375.000 € '
   button:
     enable: true
-    label: See Project
-    link: blog
+    label: See Prices
+    link: pricing
 feature:
   enable: true
   title: About the New Development
