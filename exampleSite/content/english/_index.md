@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Lomas del Higueron
+  title: New Development Higueron
   image: images/banner.jpg
   content: 'More than a Home <br> 2 bedrooms  |  From 265.000 € <br> 3 bedrooms  |  From
     375.000 € '
