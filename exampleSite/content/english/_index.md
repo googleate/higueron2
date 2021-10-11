@@ -1,7 +1,7 @@
 ---
 banner:
   title: Lomas del Higueron
-  image: images/wall.jpg
+  image: images/banner.jpg
   content: More than a Home
   button:
     enable: true
