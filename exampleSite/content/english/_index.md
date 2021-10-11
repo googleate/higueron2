@@ -63,7 +63,7 @@ service:
     button:
       enable: true
       label: See Plans
-      link: "#"
+      link: https://higueronforsale.com/blog/post-6/
   - title: Virtual 360º Render
     images:
     - images/virtual.png
