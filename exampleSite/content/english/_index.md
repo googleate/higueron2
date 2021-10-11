@@ -82,7 +82,7 @@ service:
     button:
       enable: true
       label: Check it out
-      link: "#"
+      link: https://higueronforsale.com/blog/location/
 screenshot:
   enable: true
   title: Experience the best <br> luxury environment at home
