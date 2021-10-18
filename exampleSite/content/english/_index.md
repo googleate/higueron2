@@ -15,7 +15,7 @@ feature:
   - name: Completion Date
     icon: fas fa-bell
     content: The complex Lomas 3 and Lomas 4 is already under construction and will
-      be finished in the Spring of 2023
+      be finished in the Spring of 2023. The first payment of 20% in April 2022.
   - name: Features
     icon: fas fa-building
     content: Two parking spaces and storage room, Lighting control with presence detectors,
