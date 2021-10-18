@@ -2,7 +2,7 @@
 banner:
   title: New Development Higueron
   image: images/banner.jpg
-  content: 'More than a Home <br> 2 bedrooms  |  From 265.000 € <br> 3 bedrooms  |  From
+  content: ' <br> 2 bedrooms  |  From 265.000 € <br> 3 bedrooms  |  From
     375.000 € '
   button:
     enable: true
