@@ -23,7 +23,7 @@ feature:
       common areas and rest areas.
   - name: Security
     icon: fas fa-user-clock
-    content: 24hs security service in the complex. Very quiet residential area.
+    content: 24hs security service in the complex. Very quiet residential area in one of the best luxury locations of Costa del Sol.
   - name: Value For Money
     icon: fas fa-check
     content: 'The area is increasing value for the construction of several luxury
