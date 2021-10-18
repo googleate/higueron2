@@ -1,30 +1,24 @@
 [[footer_left]]
-name = "About Us"
+name = "Contact Us"
+url = "contact"
+[[footer_left]]
+name = "Go Home"
 url = "#"
 [[footer_left]]
-name = "Quick Start"
-url = "#"
-[[footer_left]]
+name = "More info"
+url = "contact"
+[[footer_middle]]
 name = "Pricing"
 url = "pricing"
 [[footer_middle]]
-name = "Pricing"
-url = "pricing"
+name = "Plans"
+url = "https://higueronforsale.com/blog/post-6/"
 [[footer_middle]]
-name = "Platform"
-url = "#"
-[[footer_middle]]
-name = "Features"
-url = "#"
+name = "Renders"
+url = "https://higueronforsale.com/blog/post-3/"
 [[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
-[[footer_right]]
-name = "FAQ"
-url = "faq"
+name = "Contact"
+url = "contact"
 [[main]]
 name = "Home"
 url = "/"
@@ -41,7 +35,3 @@ weight = 3
 name = "Contact"
 url = "contact"
 weight = 4
-[[main]]
-name = "FAQ"
-url = "faq"
-weight = 5
