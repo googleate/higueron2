@@ -1,6 +1,6 @@
 baseURL = "higueronforsale.com"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-189981792-2"
 paginate = "3"
 summaryLength = "15"
 theme = "Higueron"
