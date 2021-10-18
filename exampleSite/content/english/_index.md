@@ -19,8 +19,7 @@ feature:
   - name: Features
     icon: fas fa-building
     content: Two parking spaces and storage room, Lighting control with presence detectors,
-      Equipped gymnasium, Business center, Swimming pool and solarium area. Landscaped
-      common areas and rest areas.
+      Equipped gymnasium, Business center, Swimming pool and solarium area.
   - name: Security
     icon: fas fa-user-clock
     content: 24hs security service in the complex. Very quiet residential area in one of the best luxury locations of Costa del Sol.
@@ -35,8 +34,7 @@ feature:
   - name: High Standards
     icon: fas fa-heart
     content: It is a very ambitious residential project, conceived to meet the expectations
-      of all owners, where every last detail has been taken care of to make you fall
-      in love with your home every day.
+      of all owners, where every last detail has been taken care of.
 service:
   enable: true
   service_item:
