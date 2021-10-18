@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: See Prices
-    link: pricing
+    link: contact
 feature:
   enable: true
   title: About the New Development
