@@ -6,7 +6,7 @@ banner:
     375.000 € '
   button:
     enable: true
-    label: See Prices
+    label: More info
     link: contact
 feature:
   enable: true
